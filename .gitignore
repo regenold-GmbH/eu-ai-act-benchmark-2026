@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+results/
+data/ai_act/own_baseline_index/
+build/
+dist/
+*.egg-info/

@@ -170,8 +170,8 @@ If you use this benchmark, please cite our paper:
   title={Are {LLM} Assistants Regulatory Ready? Answers from regenold's 2026 {EU AI Act Q\&A Challenge}},
   author={Virgolin, Marco and Haszprunar, Thomas and Regenold, Maximilian},
   year={2026},
-  howpublished = {arXiv preprint arXiv:TODO},
-  doi = {TODO/arXiv.TODO},
-  url = {https://arxiv.org/abs/TODO},
+  howpublished = {arXiv preprint arXiv:2611.04546},
+  doi = {https://doi.org/10.48550/arXiv.2611.04546},
+  url = {http://arxiv.org/abs/2611.04546},
 }
 ```
